@@ -171,25 +171,31 @@ Random Forest Accuracy: 84.55%
 
 ### Loan Approval Distribution
 
-(Add Screenshot Here)
+<img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/d2310580-c483-4c47-9d8b-eb4b3350a0a8" />
+
+
 
 ---
 
 ### Credit History Analysis
 
-(Add Screenshot Here)
+<img width="571" height="433" alt="download" src="https://github.com/user-attachments/assets/414b7efb-d998-4c9a-8ff5-ea75c58e2183" />
+
+
 
 ---
 
 ### Property Area Analysis
 
-(Add Screenshot Here)
+<img width="571" height="432" alt="download" src="https://github.com/user-attachments/assets/6196eb6a-b6b8-4aae-af5a-c1405f0824cb" />
+
 
 ---
 
 ### Confusion Matrix
 
-(Add Screenshot Here)
+<img width="481" height="374" alt="download" src="https://github.com/user-attachments/assets/3c036fbb-0d1c-42a1-a0a5-1662ca9987cc" />
+
 
 ---
 
@@ -198,7 +204,7 @@ Random Forest Accuracy: 84.55%
 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/synent-task8-loanprediction-bhupendrakumar.git
+git clone https://github.com/bktechnology513/synent-task8-loanprediction-bhupendrakumar
 ```
 
 Move to Project Folder
